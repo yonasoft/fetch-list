@@ -1,6 +1,6 @@
-package com.yonasoft.fetchlist.features.items.data.repository
+package com.yonasoft.fetchlist.features.items.data.remote.repository
 
-import com.yonasoft.fetchlist.features.items.data.services.ItemsService
+import com.yonasoft.fetchlist.features.items.data.remote.services.ItemsService
 import com.yonasoft.fetchlist.features.items.domain.model.Item
 import com.yonasoft.fetchlist.features.items.domain.repository.ItemsRepository
 

@@ -1,4 +1,4 @@
-package com.yonasoft.fetchlist.features.items.data.services
+package com.yonasoft.fetchlist.features.items.data.remote.services
 
 import android.util.Log
 import com.yonasoft.fetchlist.features.items.domain.model.Item

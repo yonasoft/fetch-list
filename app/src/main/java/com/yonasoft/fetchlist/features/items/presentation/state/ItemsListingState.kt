@@ -4,5 +4,6 @@ import com.yonasoft.fetchlist.features.items.domain.model.Item
 
 data class ItemsListingState(
     val initialItems: List<Item> = emptyList(),
-    val loading:Boolean =  false
+    val loading: Boolean = false,
+    val sortedFilteredItems: HashMap<Int, MutableList<Item>> = hashMapOf(),
 )
